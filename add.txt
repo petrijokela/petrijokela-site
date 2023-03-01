@@ -1,7 +1,0 @@
-
-    "@mui/material": "^5.10.17",
-    "@mui/styles": "^5.10.16",
-
-    "react-reveal": "^1.2.2",
-    "react-typed": "^1.2.0",
-    
