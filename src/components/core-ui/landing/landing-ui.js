@@ -96,9 +96,10 @@ function LandingUI({ theme, drawerOpen, classes }) {
                         <h1>{headerData.name}</h1>
                         <Typed
                             strings={[
-                                'Backend Developer',
                                 'Frontend Developer',
-                                'Fullstack Developer']}
+                                'Blockchain Developer',
+                                'Mobile App Developer',
+                                ]}
                             typeSpeed={40}
                             backSpeed={50}
                             className="typed-header"
